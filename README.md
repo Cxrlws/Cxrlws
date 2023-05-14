@@ -1,10 +1,16 @@
-### Hello World! Just a Python enthusiastic👋
+<h1 align="center">Hello World! Just a Python enthusiastic👋</h1><br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/carlskkj/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.vlp@discente.ufma.br)
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cxrlws&show_icons=true&theme=onedark)
+<div align = "center">
+  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=cxrlws&show_icons=true&theme=onedark"/>
+</div>
+
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxrlws&layout=compact)
+--->
 
 ## Tecnologias
 
