@@ -4,6 +4,7 @@
 )](https://www.instagram.com/carlskkj/)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cxrlws&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxrlws&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cxrlws/Cxrlws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
