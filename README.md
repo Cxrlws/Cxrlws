@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!👋</h1><br/>
 
 <div align = "center">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=cxrlws&show_icons=true&theme=onedark"/>
+  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=Cxrlws&show_icons=true&theme=onedark"/>
 </div>
 
 <!---
