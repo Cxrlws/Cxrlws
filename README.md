@@ -5,7 +5,7 @@
 </div>
 
 <!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxrlws&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlws&layout=compact)
 --->
 
 
