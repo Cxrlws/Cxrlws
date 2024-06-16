@@ -4,7 +4,6 @@
     <p>- Precision is the difference between a butcher and a surgeon. -</p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxrlws&layout=compact&theme=dark&langs_count=8&hide=Makefile,Shell)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ## Tools ⚒️ 
